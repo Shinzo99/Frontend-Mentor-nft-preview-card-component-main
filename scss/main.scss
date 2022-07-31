@@ -12,6 +12,8 @@ body {
 
 .main {
     margin-top: auto;
+    box-shadow: 0em 2em 0em 3.5em hsla(0, 0%, 0%, 0.03);
+    border-radius: 1em;
 }
 
 .container {
@@ -19,6 +21,8 @@ body {
     background-color: var(--clr-very-dark-blue-cbg);
     padding: 1.5em;
     border-radius: 1em;
+    box-shadow: 0em 2em 0em 1em hsla(0, 0%, 0%, 0.05);
+
 
     img {
         border-radius: 1em;
